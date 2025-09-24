@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "RU");
+    setlocale(LC_ALL, "RU"); 
 
     int n;
     cout << "Введите количество точек: ";
